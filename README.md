@@ -43,3 +43,6 @@ GIT
 
 VSCODIUM
 - [VSCodium](vscodium/README.md)
+
+Jupyter Notebooks
+- [Introdução aos Jupyter Notebooks](intro.ipynb)
