@@ -4,6 +4,9 @@ Funções
 - [Estudo de caso](funcoes-estudo-de-caso.md) - Baby Shark
 - [Argumentos](funcoes-argumentos.ipynb)
 
+Exemplo
+- [Dungeon](dungeon.ipynb) - Exemplo de programa usando funções
+
 Exercícios
 
 - [Dê nomes às funções](funcoes-exercicios-01.ipynb) - exercício 01
