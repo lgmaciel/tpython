@@ -10,4 +10,7 @@ Exercícios
 - [interpretação 01](ex_loops_interpretacao_01.md)
 - [codificacao 01](ex_loops_codificação_01.md)
 - [exercícios resolvidos](ex_loops_resolvidos_01.md) - de exemplo
-- [padrões com loops](padroes_com_loops.ipynb) - Padrões estudados em aula 08/05/2026
+
+Exercícios de revisão
+
+- [Exercícios de revisão](ex_revisao_01.ipynb) - 11/05/2026
