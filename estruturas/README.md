@@ -17,3 +17,7 @@ exercícios
 - [Pilhas e filas](ex_filas_pilhas.ipynb) - escrita de código
 - [Tuplas](ex_tuplas_01.ipynb) - escrita de código
 - [Mapas](ex_mapas_01.ipynb) - escrita de código
+
+12/05/2026
+
+- [Lista com valores aleatórios](ex_revisao_02.ipynb)
